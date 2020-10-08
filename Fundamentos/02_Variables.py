@@ -7,5 +7,6 @@ print(z)
 w = z
 print(w)
 #Esto solo se visualiza en el compilador de python
-print(id(x))
+print(id(z))
+print(id(w))
 print(type(z))
