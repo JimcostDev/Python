@@ -1,0 +1,10 @@
+x = 56 #entero (int)
+y = 10.15 #decimal (float)
+z = False #booleano (bool)
+print(x)
+print(y)
+print(z)
+a = "Saludos" #cadena de caracteres (str)
+
+print(type(y))
+print(a)
